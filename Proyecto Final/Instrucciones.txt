@@ -1,0 +1,6 @@
+Instrucciones:
+-Para la bases de datos abrir workbench, dar click en server
+dar en Data import y seleccionar la ubicacion del sql
+y por ultimo dar en start import.
+-Abrir AplicationReclamo en netbeans, luego dar RunFile en InterfazInicio.java 
+y se ejecutara el app.
